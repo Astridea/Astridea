@@ -8,7 +8,4 @@ Estudante de Ciência da Computação na Universidade Ferderal do Agreste de Per
 
 ## GitHub Stats ⚡
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Astridea&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jamilly Almeida github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astridea&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-
-
- ![Snake animation](https://github.com/Astridea/Astridea/blob/output/github-contribution-grid-snake.svg)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Astridea&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jamilly Almeida github stats" /> 
